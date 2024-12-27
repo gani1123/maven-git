@@ -1,7 +1,7 @@
 package myproject;
 
 /**
- * Hello world!
+ * Hi Ganesh!
  */
 public class App {
     public static void main(String[] args) {
